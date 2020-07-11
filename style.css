@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(105,105,105);
+
+     /* background-image: url(wwww.jpg);  */
+    /* background-attachment: fixed; */
+    text-align: center;
+    padding: 10px;
+}
+h1 {
+    border: 2px solid black;
+    color: #061539;
+    display: inline-block;
+    width: 150px;
+    background-color: rgb(205,92,92);
+    padding: 20px;
+    margin: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.btn {
+    border: 2px solid black;
+              font-size: 20px;
+              margin: 30px;
+              padding: 5px;
+              border-radius: 5px;
+              box-shadow: gainsboro;
+              font-weight: bold;
+              color: #061539;
+              background-color: rgb(247, 202, 201);
+}
+btn:focus{
+    background-color:red;
+}
+.num{
+    padding: 10px;
+    margin: 10px;
+}
+section{
+    border: rgb(0,0,128);
+}
